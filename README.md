@@ -1,7 +1,7 @@
 # Snake Cafe README 
 
 ## Lab: 01 - Intro to Python
-*Author: Grace Choi*
+*Author: Grace Choi*  
 PR link: https://github.com/gracerosemary/snakes-cafe/pull/1
 ----
 
